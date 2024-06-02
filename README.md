@@ -1,5 +1,5 @@
 ## Supplementary Materials
-Supplementary Materials for paper: **'What Lies Beneath': Stealthy and Effective Physical Adversarial Attacks in Autonomous Driving**
+Supplementary Materials for paper: **Stealthy and Effective Physical Adversarial Attacks in Autonomous Driving**
 
 There are three videos:
 - Human Vision.mp4 : We used video shot at a shutter speed of 1/30s to **simulate the human eye's perception** of our attack, and it's clear to see that our adversarial video is **almost invisible for human**, showing **strong stealthy**.
