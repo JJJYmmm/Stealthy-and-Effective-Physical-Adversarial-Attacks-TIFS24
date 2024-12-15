@@ -8,3 +8,20 @@ There are three videos:
 
 ## Code
 Our implementation with codes is available upon request or acceptance.
+
+## Cite
+```
+@article{journals/tifs/2024.3422920,
+  author       = {Man Zhou and
+                  Wenyu Zhou and
+                  Jie Huang and
+                  Junhui Yang and
+                  Minxin Du and
+                  Qi Li},
+  title        = {Stealthy and Effective Physical Adversarial Attacks in Autonomous
+                  Driving},
+  journal      = {{IEEE} Trans. Inf. Forensics Secur.},
+  year         = {2024},
+  url          = {https://doi.org/10.1109/TIFS.2024.3422920}
+}
+```
